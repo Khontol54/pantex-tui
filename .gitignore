@@ -1,0 +1,15 @@
+.env
+state.json
+config.json
+wallets/
+states/
+venv/
+__pycache__/
+*.pyc
+*.log
+secrets/
+web_config.json
+*.egg-info/
+dist/
+build/
+.pytest_cache/
