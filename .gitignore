@@ -1,0 +1,9 @@
+.env
+state.json
+config.json
+wallets/
+venv/
+__pycache__/
+*.pyc
+*.log
+secrets/
